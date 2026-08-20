@@ -1,5 +1,5 @@
 function exemploCondicional(){
-    console.log("TESTE")
+    console.log("Condicionais.js funcionando")
 }
 
 export default exemploCondicional;
