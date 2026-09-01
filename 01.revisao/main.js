@@ -8,3 +8,5 @@ const btnVariavel1 = document.getElementById("btnVariavel1");
 
 btnVariavel.addEventListener("click", exemplosVariavel);
 btnVariavel1.addEventListener("click", exemploCondicional);
+
+
