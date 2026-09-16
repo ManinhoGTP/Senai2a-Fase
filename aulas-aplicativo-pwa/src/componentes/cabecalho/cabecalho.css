@@ -1,3 +1,29 @@
+:root{
+    --Cor-primaria-escura: #1f0050;
+    --Cor-primaria: #310180;
+    --Cor-primaria-clara: #4401b1;
+
+    --Cor-texto: #ffffff;
+}
+
 .Cabecalho_root{
-    background-color: #1f0050;
+    background-color: var(--Cor-primaria-escura);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px;
+    border: 0px;
+    border-bottom: 5px;
+    border-color: var(--Cor-primaria-clara);
+    border-style: solid;
+
+    img{
+        width: 30px;
+        height:     30px;
+    }
+    h4{
+        color: var(--Cor-texto);
+        margin-right: 20px;
+    }
+    
 }

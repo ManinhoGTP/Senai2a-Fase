@@ -1,5 +1,5 @@
 function Principal(){
-    return <main>Principal conteúdo</main>
+    return <main className="main_root">Principal conteúdo</main>
 }
 
 export default Principal
