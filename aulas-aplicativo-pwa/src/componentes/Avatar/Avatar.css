@@ -2,5 +2,9 @@
     width: 24px;
     height: 24px;
     border-radius: 50%;
-    background-color: red;
+    background-color: var(--Cor-primaria-clara);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--Cor-texto);
 }

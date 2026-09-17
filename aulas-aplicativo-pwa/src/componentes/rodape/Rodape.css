@@ -5,4 +5,9 @@
     align-items: center;
     font-size: 12px;
     color: var(--Cor-texto);
+    border: 0px;
+    border-top: 5px;
+    border-color: var(--Cor-primaria-clara);
+    border-style: solid;
+    
 }
