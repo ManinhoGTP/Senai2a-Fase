@@ -6,8 +6,8 @@ const dataAtual = new Date()
 function Cabecalho(){
     return <header className="Cabecalho_root">
         <img src='/favicon.svg'/>
-        <Avatar nome="Gabriel tuler pereira" foto="">
-            filho
+        <Avatar nome="Gabriel" foto="">
+            filhoTeste
         </Avatar>
     </header>
 }

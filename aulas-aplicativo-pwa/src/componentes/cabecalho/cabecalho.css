@@ -1,10 +1,4 @@
-:root{
-    --Cor-primaria-escura: #1f0050;
-    --Cor-primaria: #310180;
-    --Cor-primaria-clara: #4401b1;
 
-    --Cor-texto: #ffffff;
-}
 
 .Cabecalho_root{
     background-color: var(--Cor-primaria-escura);
