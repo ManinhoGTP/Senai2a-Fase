@@ -1,0 +1,16 @@
+.VerificarIdade_root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+  margin: 16px;
+}
+.maior{
+  background-color: rgb(2, 136, 31);
+  color: rgb(250, 233, 1);
+}
+.menor{
+  background-color: rgb(245, 5, 5);
+  color: rgb(255, 238, 0);
+}
