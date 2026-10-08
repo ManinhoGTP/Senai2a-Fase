@@ -1,0 +1,10 @@
+.ListaProdutos_root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(131, 0, 163);
+  color: rgb(255, 251, 0);
+
+  margin: 16px;
+}

@@ -1,0 +1,8 @@
+.DiaAtual_root {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(0, 0, 255);
+  color: rgb(255, 255, 255);
+
+  margin: 16px;
+}

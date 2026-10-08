@@ -1,0 +1,8 @@
+.AnoAtual_root {
+  display: flex;
+  justify-content: right;
+  background-color: rgb(0, 0, 0);
+  color: rgb(229, 255, 0);
+
+  margin: 16px;
+}
