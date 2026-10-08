@@ -1,15 +1,21 @@
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import PaginaInicial from '../paginas/PaginaInicial/PaginaInicial';
+import PaginaListaProdutos from '../paginas/PaginaListaProdutos/PaginaListaProdutos';
+
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 const roteador = createBrowserRouter([
-{
-path: '',
-element: <PaginaInicial/>
-},
+    {
+        path: '',
+        element: <PaginaInicial />
+    },
+    {
+        path: 'Lista-produtos',
+        element: <PaginaListaProdutos/>,
+    },
 ]);
 
-function Roteador(){
-    return <RouterProvider router={roteador}/>
+function Roteador() {
+    return <RouterProvider router={roteador} />
 }
 
 
