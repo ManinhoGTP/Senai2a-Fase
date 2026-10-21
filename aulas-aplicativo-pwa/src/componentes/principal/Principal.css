@@ -1,8 +1,0 @@
-.Principal_root{
-    background-color: var(--Cor-fundo);
-    color: var(--Cor-texto);
-
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
-}
