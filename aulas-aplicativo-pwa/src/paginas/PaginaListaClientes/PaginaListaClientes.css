@@ -1,0 +1,15 @@
+.listaClientes_root{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px dimgray solid;
+    border-radius: 5px;
+    padding: 16px;
+    box-shadow: 0px 2px 7px black;
+}
+.listaClientes_iconeXtexto{
+    display: grid;
+    grid-template-columns: 20px 1fr;
+    gap: 5px;
+    align-items: center;
+}
